@@ -1,1 +1,3 @@
-hello dev
+Class Dev{
+  a=10;
+}
