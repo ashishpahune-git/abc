@@ -1,1 +1,3 @@
-hello devops
+Class Dev{
+  a=20;
+}
